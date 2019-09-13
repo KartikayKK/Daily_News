@@ -27,3 +27,10 @@ All the news will be updated whenever new news in the tech world.
 4.
 
 ![](https://github.com/KartikayKK/Daily_News/blob/master/4.jpeg)
+
+# New *Favourites* feature
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
